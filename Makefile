@@ -1,3 +1,4 @@
+#NVCC = nvcc
 NVCC = /usr/local/cuda/bin/nvcc
 
 NVCC_FLAGS = -I/usr/local/cuda/include -lineinfo
